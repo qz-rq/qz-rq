@@ -12,6 +12,5 @@ i have a basic understanding of pyhton, c+ and javascript.
 
 -to reach me; C.Horrocks3356@student.leedsbeckett.ac.uk
 
-- ⚡ Fun fact: im learning pool
 
 -->
